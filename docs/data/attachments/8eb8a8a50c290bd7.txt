@@ -1,0 +1,4 @@
+Method: POST
+Endpoint: /doAction
+Token: 8910F62849924025A1B7F78D74F37332
+Action: DELETE_ALL

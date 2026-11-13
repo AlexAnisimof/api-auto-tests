@@ -1,0 +1,4 @@
+Method: POST
+Endpoint: /doAction
+Token: 094228259A5C4D70B2C42900C4A91D04
+Action: ACTION

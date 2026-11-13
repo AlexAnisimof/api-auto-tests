@@ -1,0 +1,5 @@
+Method: POST
+Endpoint: /auth
+Token: SHORT123
+Action: LOGIN
+Token Length: 8

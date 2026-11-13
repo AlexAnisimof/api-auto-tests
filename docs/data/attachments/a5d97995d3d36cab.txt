@@ -1,0 +1,4 @@
+Method: POST
+Endpoint: /auth
+Token: 9D20DE8BD0954970B96A4F28E44EEAC8
+Action: LOGIN

@@ -1,0 +1,5 @@
+Method: POST
+Endpoint: /auth
+Token: ABCDEF1234567890ABCDEF123456789@#
+Action: LOGIN
+Invalid Characters: @#

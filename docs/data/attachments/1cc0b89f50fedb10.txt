@@ -1,0 +1,5 @@
+Method: POST
+Endpoint: /auth
+Token: F603BBAFDFB64D5988493CEDD38F2916
+Action: LOGIN
+API Key: WRONG_KEY

@@ -1,0 +1,5 @@
+Method: POST
+Endpoint: /doAction
+Token: 7D50277388154CEE99C2C9C79976F74A
+Action: ACTION
+Precondition: Нет предварительного LOGIN

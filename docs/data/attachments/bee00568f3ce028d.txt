@@ -1,0 +1,4 @@
+Method: POST
+Endpoint: /auth
+Token: 65B770141038426EBA544C4E69D590F5
+Action: LOGIN
