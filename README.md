@@ -6,7 +6,7 @@
 Выполнил тестовое задание по автоматизации API внутреннего сервиса. 
 
 Ссылка на репозиторий с кодом: https://github.com/AlexAnisimof/api-auto-tests
-Ссылка на интерактивный Allure-отчет: https://alexanisimof.github.io/api-auto-tests/#suites/68ec05feef1ae8c31b8e928c0c420e72
+Ссылка на интерактивный Allure-отчет: https://alexanisimof.github.io/api-auto-tests/#suites/68ec05feef1ae8c31b8e928c0c420e72/bd5831b9fd6627fa/
 
 Что было сделано в рамках задания:
 1. Архитектура фреймворка разделена на логические слои (AppClient для отправки API-запросов, BaseTest для конфигурации инфраструктуры сетей и AppTest для чистых тест-кейсов).
